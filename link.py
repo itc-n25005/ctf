@@ -1,0 +1,5 @@
+#[Link]
+(https://ja.wikipedia.org/wiki/%E3%82%AD%E3%83%A3%E3%83%97%E3%83%81%E3%83%A3%E3%83%BC%E3%83%BB%E3%82%B6%E3%83%BB%E3%83%95%E3%83%A9%E3%83%83%E3%82%B0)
+ #[Link]
+ (https://www.nri-secure.co.jp/glossary/ctf)
+
